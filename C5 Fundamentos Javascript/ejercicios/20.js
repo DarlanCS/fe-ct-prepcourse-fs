@@ -1,4 +1,4 @@
-function resta(x, y) {
+function resta(x, y) {return x - y; x === Number; y === Number
   // La función recibe dos argumentos llamados "x" e "y" que son números.
   // Retorna el resultado de la resta de estos argumentos.
   // Por ejemplo: 

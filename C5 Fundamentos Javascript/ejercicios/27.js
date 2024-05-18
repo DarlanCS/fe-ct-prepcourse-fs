@@ -1,4 +1,4 @@
-function obtenerAreaRectangulo(alto, ancho) {
+function obtenerAreaRectangulo(alto, ancho) {return alto * ancho; alto === Number; ancho === Number
   // La función recibe dos argumentos llamados "alto" y "ancho" los cuales son numeros.
   // Retornar el área de un rectángulo teniendo su alto y ancho.
   // Por ejemplo: 

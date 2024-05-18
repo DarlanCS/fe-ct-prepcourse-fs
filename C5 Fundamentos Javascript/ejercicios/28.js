@@ -1,4 +1,4 @@
-function retornarPerimetro(lado) {
+function retornarPerimetro(lado) { return lado + lado + lado + lado; lado === Number
    // La función recibe un argumento llamado lado el cual es un numero.
    // Retornar el perimetro de un cuadrado.
    // Por ejemplo: 
